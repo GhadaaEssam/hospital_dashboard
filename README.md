@@ -30,7 +30,9 @@ It contains details about patients, diseases, treatment outcomes, and associated
 - Two slicers (Condition & Gender) for dynamic filtering and exploration
 
 ## Dashboard preview
-![Demo](assets\Hospitaldashboard-ezgif.com-video-to-gif-converter.gif)
+![Hospital Dashboard](/assets/Dashboard%20preview.png)
+
+You can view demo [here](/assets/Hospital%20dashboard.mp4)
 
 ## Overview
 This dashboard highlights the overall hospital status, key patient statistics, treatment costs, and outcomes in an interactive and easy-to-read format. It aims to help hospital management monitor operations and identify areas for improvement.
