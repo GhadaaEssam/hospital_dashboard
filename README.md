@@ -32,7 +32,7 @@ It contains details about patients, diseases, treatment outcomes, and associated
 ## Dashboard preview
 ![Hospital Dashboard](/assets/Dashboard%20preview.png)
 
-You can view demo [here](/assets/Hospital%20dashboard.mp4)
+You can view demo [here](/assets/Hospitaldashboard.gif)
 
 ## Overview
 This dashboard highlights the overall hospital status, key patient statistics, treatment costs, and outcomes in an interactive and easy-to-read format. It aims to help hospital management monitor operations and identify areas for improvement.
